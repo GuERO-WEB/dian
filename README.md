@@ -63,8 +63,8 @@
 
     </p>
     <div class="images">
-        <img src="https://i.pinimg.com/originals/8c/87/76/8c87764f22b76b2fa1696c61a6be0357.png" alt="Hello Kitty Rosa">
-        <img src="https://i.pinimg.com/originals/6c/bd/16/6cbd168056ea094bcf2aaf48c9e2d700.png" alt="Batman Rosa">
+        <img src="https://ichef.bbci.co.uk/images/ic/480xn/p024vl48.png.webp">
+        <img src="https://files.idyllic.app/files/static/2805212">
     </div>
 </body>
 </html>
